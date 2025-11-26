@@ -2,6 +2,10 @@
 
 # Biopython を使った DNA/遺伝子情報の練習問題
 
+[Biopython入門](https://biomedicalhacks.com/2020-05-12/biopython-basic-1/)を参考に以下の問題を解いてください。
+
+解説のない用法もあるので、適宜Googleで検索してください
+
 ---
 
 ## 練習用ファイル: sample.fa と sequence.gb
